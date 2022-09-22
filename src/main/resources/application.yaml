@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: ${PROFILE}
+server:
+  port: ${PORTA_FATESG}
